@@ -2,11 +2,11 @@
 
 A multiplayer platformer based on Processing. 
 
-Supports collision detection, multiplayer, and replay.
+Supports collision detection, multiplayer, and replaying function.
 
 Developer's Log 2:
 
-https://github.com/niyuang/CSC481_public/blob/master/CSC481HW_3.pdf
+https://github.com/niyuang/CSC481_public/blob/master/CSC481_HW2.pdf
 
 Developer's Log 3:
 
