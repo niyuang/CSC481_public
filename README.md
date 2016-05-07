@@ -1,5 +1,9 @@
 # CSC481_public
 
+A multiplayer platformer based on Processing. 
+
+Supports collision detection, multiplayer, and replay.
+
 Developer's Log 2:
 
 https://github.com/niyuang/CSC481_public/blob/master/CSC481HW_3.pdf
