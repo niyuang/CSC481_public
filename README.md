@@ -1,6 +1,6 @@
 # CSC481_public
 
-A multiplayer platformer based on Processing. 
+A multiplayer platformer based on Processing. More infor about Processing: https://processing.org/
 
 Supports collision detection, multiplayer, and replaying function.
 
